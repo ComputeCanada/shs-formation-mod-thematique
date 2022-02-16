@@ -24,5 +24,5 @@ pip install nltk gensim==3.8.3 spacy pyLDAvis==3.3.1
 Pour installer une banque de vocabulaire en français:
 ```Bash
 # Préfixez ces commande par un "!" si vous voulez installer à partir d'un notebook
-python -m spacy download fr_core_web_sm
+python -m spacy download fr_core_news_sm
 ```
