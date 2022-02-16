@@ -1,6 +1,6 @@
 # Modélisation thématique
 Dans le notebook [`modelisation_thematique.ipynb`](modelisation_thematique.ipynb),
-nous effectuons de la modélisation thématique de textex à l'aide de modules Python spécialisés.
+nous effectuons de la modélisation thématique de textes à l'aide de modules Python spécialisés.
 
 ## Logiciels prérequis
 * [Java (JDK >= 16)](https://www.oracle.com/java/technologies/downloads/): Java SE Development Kit
