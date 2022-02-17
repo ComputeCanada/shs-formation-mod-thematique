@@ -5,7 +5,6 @@ nous effectuons de la modélisation thématique de textes à l'aide de modules P
 ## Logiciels prérequis
 * [Java (JDK >= 16)](https://www.oracle.com/java/technologies/downloads/): Java SE Development Kit
 * [Apache Ant (version >= 1.10.10)](https://ant.apache.org/bindownload.cgi): différents outils pour des applications Java
-* [MALLET 2.0.8](https://mallet.cs.umass.edu/download.php): MAchine Learning for LanguagE Toolkit
 
 ## Modules Python requis
 * `nltk`: le [Natural Language Toolkit](https://www.nltk.org/)
